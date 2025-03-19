@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurfarah Izzati</h1>
 <h3 align="center">Software Engineering student from UTM SKUDAI</h3>
 
-- 🌱 I’m currently learning **year 2 SECJH, bachelors in software engineering**
+- 🌱 I’m currently learning **Year 3 SECJH, Bachelors in Software Engineering With Honors**
 
 - 📫 How to reach me **nurfarah.izzati@graduate.utm.my**
 
