@@ -7,7 +7,7 @@
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nurfarah-izzati-yusni-926bb2138?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0NT8N%2BwtSXOY5NZbzj01IA%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurfarah-izzati-yusni-926bb2138)
 
 ---
 
