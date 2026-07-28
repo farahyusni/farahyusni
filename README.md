@@ -21,34 +21,27 @@
 - ✨ Recently built a **wedding card ordering platform** with AI-powered design generation (Claude API + Stable Diffusion + LLaMA Vision) — live with real customers
 - 📫 Reach me at **nurfarah.dev@gmail.com**
 
-<br/>
+<br/> 
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
-### 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
 
-**Frontend**
+Frontend
 
-<img src="https://skillicons.dev/icons?i=vue,angular,flutter,js,html,css&theme=light" alt="Frontend skills"/>
+<table> <tr> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br><sub><b>Vue.js 3</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/><br><sub><b>Angular</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/><br><sub><b>Flutter</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br><sub><b>HTML5</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br><sub><b>CSS3</b></sub></td> </tr> </table>
 
-**Backend**
+Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,cs,java,cpp,php,dart&theme=light" alt="Backend skills"/>
+<table> <tr> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br><sub><b>Node.js</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/><br><sub><b>Express.js</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET"/><br><sub><b>ASP.NET</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/><br><sub><b>Spring Boot</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br><sub><b>C#</b></sub></td> </tr> <tr> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br><sub><b>Java</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br><sub><b>C++</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br><sub><b>PHP</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/><br><sub><b>Dart</b></sub></td> <td align="center" width="90"></td> </tr> </table>
 
-**Databases**
+Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" alt="Database skills"/>
-<img src="https://img.shields.io/badge/SQL%20Server-A3B18A?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-D4A5A5?style=for-the-badge&logo=oracle&logoColor=white"/>
+<table> <tr> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br><sub><b>MySQL</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/><br><sub><b>Oracle</b></sub></td> </tr> </table>
 
-**DevOps & Tools**
+DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,azure,nginx,cloudflare,git,github,postman,figma,visualstudio,vscode&theme=light" alt="DevOps and tools"/>
-
-</div>
-
-<br/>
+<table> <tr> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br><sub><b>Docker</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure DevOps"/><br><sub><b>Azure DevOps</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/><br><sub><b>Nginx</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare"/><br><sub><b>Cloudflare</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br><sub><b>Git</b></sub></td> </tr> <tr> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br><sub><b>Postman</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br><sub><b>Figma</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/><br><sub><b>Canva</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/><br><sub><b>Visual Studio</b></sub></td> <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br><sub><b>VS Code</b></sub></td> </tr> </table> </div> <br/>
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 ### 🌸 Featured Projects
