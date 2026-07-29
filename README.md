@@ -84,7 +84,7 @@ DevOps & Tools
 ### 🤍 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nurfarah-izzati-yusni-926bb2138">
+  <a href="https://www.linkedin.com/in/nurfarahizzatiyusni">
     <img src="https://img.shields.io/badge/LinkedIn-Nurfarah%20Izzati-A3B18A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nurfarah.dev@gmail.com">
