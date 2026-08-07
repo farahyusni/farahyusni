@@ -57,16 +57,13 @@ DevOps & Tools
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farahyusni&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=12&bg_color=00000000&title_color=8B7355&icon_color=A3B18A&text_color=6B5B45" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahyusni&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=12&bg_color=00000000&title_color=8B7355&text_color=6B5B45&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-farahyusni1.vercel.app/api?username=farahyusni&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=12&bg_color=00000000&title_color=8B7355&icon_color=A3B18A&text_color=6B5B45" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-farahyusni1.vercel.app/api/top-langs/?username=farahyusni&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=12&bg_color=00000000&title_color=8B7355&text_color=6B5B45&langs_count=8" alt="Top languages"/>
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=farahyusni&hide_border=true&border_radius=12&background=00000000&ring=A3B18A&fire=D4A5A5&currStreakLabel=8B7355&sideLabels=8B7355&currStreakNum=6B5B45&sideNums=6B5B45&dates=9A8C7A" alt="GitHub streak"/>
 </div>
-
 <br/>
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
